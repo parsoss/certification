@@ -5,8 +5,8 @@ int main()
     int ga, se;
     int i, j;
 
-    printf("°¡·Î»çÀÌÁî: "); scanf("%d", &ga);
-    printf("¼¼·Î»çÀÌÁî: "); scanf("%d", &se);
+    printf("Â°Â¡Â·ÃÂ»Ã§Ã€ÃŒÃÃ®: "); scanf("%d", &ga);
+    printf("Â¼Â¼Â·ÃÂ»Ã§Ã€ÃŒÃÃ®: "); scanf("%d", &se);
 
     for(i=1; i<se+1; i++){
         for(j=1; j<ga+1; j++){
