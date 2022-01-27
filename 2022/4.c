@@ -6,9 +6,9 @@ int main()
     scanf("%d", &num);
 
     if(999<num&&num<10000){
-        printf("천단위의 숫자입니다");
+        printf("1000");
     }
     else{
-        printf("천단위의 숫자가 아닙니다.");
+        printf("1000x");
     }
 }
